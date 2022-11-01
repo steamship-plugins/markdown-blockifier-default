@@ -1,0 +1,30 @@
+{
+  "type": "plugin",
+  "handle": "markdown-blockifier-default",
+  "version": "1.0.0",
+  "description": "Converts Markdown text into Steamship format.",
+  "author": "Steamship",
+  "public": true,
+  "configTemplate": {},
+  "plugin": {
+    "type": "blockifier",
+  },
+  "steamshipRegistry": {
+    "tagline": "Converts Markdown text into Steamship format.",
+    "tagline2": "Markdown elements are transformed into Steamship Tags for querying.",
+    "usefulFor": "Useful for importing content from productivity tools and blogging platforms.",
+    "videoUrl": null,
+    "githubUrl": "https://github.com/steamship-plugins/markdown-blockifier-default/",
+    "demoUrl": null,
+    "blogUrl": null,
+    "jupyterUrl": null,
+    "authorName": "Steamship",
+    "authorEmail": "hello@steamship.com",
+    "authorTwitter": "@GetSteamship",
+    "authorUrl": "https://www.steamship.com/",
+    "tags": [
+      "Markdown",
+      "conversion"
+    ]
+  }
+}
