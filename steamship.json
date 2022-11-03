@@ -7,7 +7,7 @@
   "public": true,
   "configTemplate": {},
   "plugin": {
-    "type": "blockifier",
+    "type": "blockifier"
   },
   "steamshipRegistry": {
     "tagline": "Converts Markdown text into Steamship format.",
